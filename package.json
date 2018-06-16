@@ -1,0 +1,24 @@
+{
+  "name": "tmsfw-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guojindai/tmsfw-data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guojindai/tmsfw-data/issues"
+  },
+  "homepage": "https://github.com/guojindai/tmsfw-data#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "csv-writer": "^1.0.0",
+    "request": "^2.87.0"
+  }
+}
